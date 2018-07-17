@@ -1,0 +1,16 @@
+{
+  "name": "rx-todo",
+  "version": "0.0.1-SNAPSHOT",
+  "description": "Todo app built with RxJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "rxjs",
+    "todo",
+    "js"
+  ],
+  "author": "Quincy Iheme",
+  "license": "ISC"
+}
