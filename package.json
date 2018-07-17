@@ -12,5 +12,8 @@
     "js"
   ],
   "author": "Quincy Iheme",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^6.2.2"
+  }
 }
